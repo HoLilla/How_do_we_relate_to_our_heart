@@ -1,6 +1,6 @@
-# Data and scripts supporting published article by Hodossy, Ainley and Tsakiris(2021)?
+# Data and scripts supporting published article by Hodossy, Ainley and Tsakiris(2021)
 
-* Title: How do we relate to our heart? Neurobehavioral differences across three types of engagement with cardiac interoception
+## Title: How do we relate to our heart? Neurobehavioral differences across three types of engagement with cardiac interoception
 
 Biological Psychology,
 Volume 165,
@@ -8,7 +8,6 @@ Volume 165,
 108198,
 ISSN 0301-0511,
 [https://doi.org/10.1016/j.biopsycho.2021.108198.](https://www.sciencedirect.com/science/article/pii/S0301051121001915)
-Authors: Lilla Hodossy, Vivien Ainley, Manos Tsakiris
 
 ## Abstract: 
 Standard measures of interoception are typically limited to the conscious perception of heartbeats. 
