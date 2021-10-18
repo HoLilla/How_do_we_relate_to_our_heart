@@ -1,4 +1,6 @@
-# How do we relate to our heart? Neurobehavioral differences across three types of engagement with cardiac interoception
+# Data and scripts supporting published article by Hodossy, Ainley and Tsakiris(2021)?
+
+* Title: How do we relate to our heart? Neurobehavioral differences across three types of engagement with cardiac interoception
 
 Biological Psychology,
 Volume 165,
@@ -6,6 +8,7 @@ Volume 165,
 108198,
 ISSN 0301-0511,
 [https://doi.org/10.1016/j.biopsycho.2021.108198.](https://www.sciencedirect.com/science/article/pii/S0301051121001915)
+Authors: Lilla Hodossy, Vivien Ainley, Manos Tsakiris
 
 ## Abstract: 
 Standard measures of interoception are typically limited to the conscious perception of heartbeats. 
@@ -63,7 +66,7 @@ Figure 5 A and B are plotting the relevant differences in amplitudes.
 * Figure 4 A plotting the relevant differences in amplitudes under different Engagement strategies both for the Congruent and Incongruent conditions.
 
 ### plot_notincluded_groupedBYstrategies.m
-* Like previous plot but signals are separated by Congruency condition then plotted for every Engagement condition (not included in final manuscript).
+* Like previous plot but signals are separated by Congruency condition then plotted for every Engagement condition (not included in final article).
 
 ### study4_ECG_artifact_analysis.m
 * Script used for ECG artifact analysis.
